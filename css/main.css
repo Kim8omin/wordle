@@ -1,0 +1,24 @@
+body {
+    width: 100vw;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.row {
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.block {
+    margin: 2px;
+    width: 60px;
+    height: 60px;
+    border: 2px solid #d3d6da;
+}
